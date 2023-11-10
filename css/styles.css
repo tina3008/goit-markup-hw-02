@@ -57,7 +57,7 @@ address{font-style: normal;}
 }
 .adrs:hover, .adrs:focus{color:#404BBF;}
 
- .section-1 {background-color:#2E2F42;
+ .section-one {background-color:#2E2F42;
 	width: 1440px;
 height: 600px;
 flex-shrink: 0;
@@ -83,7 +83,7 @@ flex-shrink: 0;
 	}
 .sec2_h{color: #FFFFFF;}
 
-.section-3 {background-color:#F4F4FD; color: #2e2f42; text-align: center;
+.section-team {background-color:#F4F4FD; color: #2e2f42; text-align: center;
 	}
 .sec3_li1 {background-color: #FFFFFF;}
 
