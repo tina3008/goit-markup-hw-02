@@ -7,7 +7,7 @@ h1{color:  #FFF;
 	font-size: 56px;
 	font-style: normal;
 	font-weight: 700;
-	line-height: 60px; 
+	line-height: 1.07; 
 	letter-spacing: 1.12px;
 text-transform: capitalize;}
 
@@ -16,17 +16,17 @@ h2{
 	font-size: 36px;
 	font-style: normal;
 	font-weight: 700;
-	line-height: 40px;
+	line-height: 1.11;
 	letter-spacing: 0.72px;
 	text-transform: capitalize;}
 h3{font-size: 20px;
 	font-style: normal;
 	font-weight: 500;
-	line-height: 24px; 
+	line-height: 1.2; 
 	letter-spacing: 0.4px;}
 p{color:  #434455;
 	font-size: 16px;
-	line-height: 24px; 
+	line-height: 1.5; 
 	letter-spacing: 0.32px;}
 /* .link {color:#2E2F42;} */
 .link:hover, .link:focus{color:#404BBF;}
