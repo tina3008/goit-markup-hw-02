@@ -11,7 +11,7 @@ h1{color:  #FFF;
 	letter-spacing: 1.12px;
 text-transform: capitalize;}
 
-h2{
+h2{collor:#2e2f42;
 	text-align: center;
 	font-size: 36px;
 	font-style: normal;
@@ -19,6 +19,7 @@ h2{
 	line-height: 1.11;
 	letter-spacing: 0.72px;
 	text-transform: capitalize;}
+	
 h3{font-size: 20px;
 	font-style: normal;
 	font-weight: 500;
@@ -60,10 +61,12 @@ flex-shrink: 0;
 	}
 .sec2_h{color: #FFFFFF;}
 
-.section-3 {background-color:#F4F4FD; text-align: center;
+.section-3 {background-color:#F4F4FD; color: #2e2f42; text-align: center;
 	}
+.sec3_list1{color: #FFFFFF;}
+
 footer {background-color: #2E2F42; }
 /* .ftr-link {color: #FFFFFF;} */
 .acccent {color: #4D5AE5;}
-.Studio{#f4f4fd}
+.Studio{color:#f4f4fd;}
 .p-ftr {color: #F4F4FD;}
