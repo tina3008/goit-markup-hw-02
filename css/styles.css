@@ -81,11 +81,11 @@ flex-shrink: 0;
 
 .button:hover, .button:focus{background-color: #404BBF; 
 	}
-.sec2_h{color: #FFFFFF;}
+.title_emt{color: #FFFFFF;}
 
 .section-team {background-color:#F4F4FD; color: #2e2f42; text-align: center;
 	}
-.sec3_li1 {background-color: #FFFFFF;}
+.user_list {background-color: #FFFFFF;}
 
 footer {background-color: #2E2F42; }
 /* .ftr-link {color: #FFFFFF;} */
