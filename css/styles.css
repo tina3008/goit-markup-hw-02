@@ -33,7 +33,7 @@ p{color:  #434455;
 /* .link {color:#2E2F42;} */
 .link:hover, .link:focus{color:#404BBF;}
 .link:active{color:#404BBF;}
-.adrs:hover, .adrs:focus{color:#404BBF;}
+
 .logo{font-weight: 700;
 	font-size: 18px;
 	line-height: 1.17;
@@ -43,6 +43,19 @@ p{color:  #434455;
 	.Studio_head{color: #2E2F42;}
 	.Studio{color:#f4f4fd;}
 
+.nav{font-weight: 500;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #2e2f42 
+
+}
+address{font-style: normal;}
+.adrs{ line-height: 1.5;  
+	letter-spacing: 0.02em;
+	color: #434455;
+
+}
+.adrs:hover, .adrs:focus{color:#404BBF;}
 
  .section-1 {background-color:#2E2F42;
 	width: 1440px;
