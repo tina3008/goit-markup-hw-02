@@ -57,10 +57,8 @@ address{font-style: normal;}
 }
 .adrs:hover, .adrs:focus{color:#404BBF;}
 
- .section-one {background-color:#2E2F42;
-	/* width: 1440px;
-height: 600px;
-flex-shrink: 0; */
+.section-one {background-color:#2E2F42;
+
 }
 
 .button{cursor: pointer;
